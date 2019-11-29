@@ -9,4 +9,3 @@ using hello::greetings;
 int main() {
     greetings(cout) << endl;
 }
-
